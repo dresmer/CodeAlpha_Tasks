@@ -1,0 +1,4 @@
+Your Stock Portfolio:
+AAPL: 34 shares x $180 = $6120
+
+Total Investment Value: $6120
